@@ -46,3 +46,9 @@ section {
     border:4px solid white;
     margin-bottom:15px;
 }
+.card a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+    display:block;
+}
