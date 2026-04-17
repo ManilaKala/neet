@@ -52,3 +52,27 @@ section {
     font-weight:bold;
     display:block;
 }
+.card a{
+    text-decoration:none;
+    color:#111;
+    font-weight:bold;
+    display:block;
+}
+
+.card{
+    padding:15px;
+    margin:10px 0;
+    border-radius:10px;
+    background:white;
+    box-shadow:0 2px 6px rgba(0,0,0,0.1);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:scale(1.02);
+    background:#f5f5f5;
+}
+
+section h2{
+    color:#1f4e79;
+}
